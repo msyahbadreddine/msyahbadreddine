@@ -7,19 +7,18 @@ Software Engineer focused on Systems, Backend, and Cloud
 ---
 
 ### About Me
-- Building a strong foundation in systems programming and backend development  
-- Interested in scalable systems and performance  
-- Background in C (42 Network)  
-- Currently improving Python and backend engineering skills  
+- Building a strong foundation in systems programming and backend development
+- Interested in scalable systems and performance
+- Background in C (42 Network)
+- Currently improving Python and backend engineering skills
 
 ---
 
 ### Tech Stack
-- Languages: C, Python  
-- Backend: APIs, basic web architecture  
-- Systems: Memory management, low-level programming  
-- Tools: Git, Bash, Docker  
-- Databases: MongoDB  
+- Languages: C, Python
+- Backend: APIs, basic web architecture
+- Systems: Memory management, low-level programming
+- Tools: Git, Bash, Docker
 
 ---
 

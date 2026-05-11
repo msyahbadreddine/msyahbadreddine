@@ -31,8 +31,8 @@ Software Engineer focused on Systems, Backend, and Cloud
 ---
 
 ### Contact
-- Email: eddinbader88@gmail.com
-- X (Twitter): https://x.com/badreddinemsyah/
+- Email: pro.msyah@gmail.com
+- X (Twitter): https://x.com/msyahbadreddine/
 - LinkedIn: https://linkedin.com/in/badreddine-msyah/
 
 ---
